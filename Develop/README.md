@@ -1,9 +1,9 @@
 
-  # run bud	
+  # Run Buddy
   ## Description
-  dsdkf jslkd fjie f
+  Description of the project
   ## Installation
-  sdkfjsdkj f
+  installation process
   
   ## Table of contntent 
   * [Installation](#installation)
@@ -12,11 +12,11 @@
 * [License](#license)
 
 ## Usage  
-dfkjsdklfj s
+how will this project be used
 ## Contributors
-dfkjsd 
+Marta
 ## License
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Github
-Contact me through Github at [dfsdklfj ](https://github.com/dfsdklfj /) or by email through sdfsfdsf.
+Contact me through Github at [martaniz](https://github.com/martaniz/) or by email through martaniz@github.com.

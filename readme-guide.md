@@ -17,7 +17,7 @@ If you're new to Markdown, read the GitHub guide on [Mastering Markdown](https:/
 If you need an example of a good README, check out [the VSCode repository](https://github.com/microsoft/vscode).
 
 
-## Table of Contents (Optional)
+## Table of Contents 
 
 If your README is very long, add a table of contents to make it easy for users to find what they need.
 
