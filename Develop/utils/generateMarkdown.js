@@ -51,7 +51,12 @@ ${data.usage}
 ${data.contribution}
 ## License
 ${renderLicenseBadge(data.licenses)}
-`;
+
+## Github
+Contact me through Github at [${data.github}](https://github.com/${data.github}/) or by email through ${data.email}.`;
 }
+
+
+
 
 module.exports = generateMarkdown;

@@ -75,12 +75,14 @@ const questions = [
     type: "input",
       message: "What is the user github username?",
       name: "github"
-  }
-//   {   
-//     type: "input",
-//       message: "Please provide a profile picture",
-//       name: "GitHub profile picture"
-//   }
+  },
+  {
+    type:"input",
+    message:"Enter Email address?",
+    name:"email"
+}
+
+
 ]
 
 function runQuestions() {
