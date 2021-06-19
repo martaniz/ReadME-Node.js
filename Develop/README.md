@@ -1,20 +1,20 @@
 
-  # Run Buddy
+  # ReadMe Generator
   ## Description
-  Description of the project
+  Here is a short description of the project; ReadMe Generator
   ## Installation
-  installation process
+  Here are teh steps required to install your project; step by step
   
   ## Table of contntent 
   * [Installation](#installation)
 * [Usage](#usage)
-* [Credits](#credits)
+* [Contributors](#contribution)
 * [License](#license)
 
 ## Usage  
-how will this project be used
+Instructions and examples for use
 ## Contributors
-Marta
+List your colloboratiors
 ## License
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 

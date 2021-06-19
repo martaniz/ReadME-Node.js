@@ -3,14 +3,6 @@ const inquirer = require('inquirer');
 const generateMarkdown = require('./utils/generateMarkdown')
 
 
-// fs.writeFile('README.md', generateMarkdown(answers), err => {
-//  if (err) throw err;
-
-//  console.log('README complete! Check out index.html to see the output!');
-// });
-
-
-
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {}
@@ -30,11 +22,7 @@ const questions = [
       message: "What is the title of the project?",
       name: "title"
   },
-//   {   
-//     type: "input",
-//       message: "Please provide a table on content",
-//       name: "table of content"
-//   },
+
   {   
     type: "input",
       message: "What is the name of the user?",
@@ -81,8 +69,6 @@ const questions = [
     message:"Enter Email address?",
     name:"email"
 }
-
-
 ]
 
 function runQuestions() {
@@ -101,10 +87,6 @@ function makeMarkdown(data) {
     console.log('README complete! Check out index.js to see the output!');
  })
 };
-
-
-
-
 
 runQuestions();
 
